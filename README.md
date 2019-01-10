@@ -26,6 +26,10 @@ Code a server using Node.js
 3. Open terminal cd to path directory where your source files save “cd <directore path—>” <br/>
 4. Terminal open new tab : $ node index
 
+5. Install nodemon <br>
+   npm install -g nodemon
+Now that you have installed nodemon, start your app with <b>nodemon index</b> instead refresh your browser to view the changes.
+
 ===================================================================================================================
 
 ### Task 1 - Load database
