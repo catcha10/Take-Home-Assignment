@@ -63,5 +63,3 @@ Go to “http://localhost:8080/rates/analyze”
 
 ### For Mocha Testing
 Open new tab terminal $npm run test
-
-
