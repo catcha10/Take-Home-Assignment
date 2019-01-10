@@ -44,5 +44,10 @@ Eg: Go to http://localhost:8080/rates/2018-10-25
 ### Task 4 - `GET /rates/analyze`
 Go to http://localhost:8080/rates/analyze
 
-### For mocha test
-Open terminal npm run test
+
+
+## For Mocha Testing
+$ npm install mocha --save
+$ npm install chai
+
+$ npm run test
