@@ -13,11 +13,11 @@ Code a server using Node.js
       <li>Install express.js<br/>
           https://www.npmjs.com/package/express
       </li>
-      <li>Install xml2json
+      <li>Install xml2json<br/>
           https://www.npmjs.com/package/xml2json
       </li>
-      <li>Install mongodb
-           2 ways to install:
+      <li>Install mongodb<br/>
+           2 ways to install:<br/>
            a) using Homebrew for Mac : https://brew.sh/ . <br/>
               Install using homebrew:<br/>
               Terminal : Copy /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)” to terminal, https://brew.sh/
