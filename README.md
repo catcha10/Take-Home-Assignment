@@ -3,7 +3,7 @@ Code a server using Node.js
 
 ## Tasks 
 1. Download the source files, to your local directory
-2. Open terminal cd to path directory where your source files save “cd <directore path—>”
+2. Open terminal cd to path directory where your source files save “cd <--directore path—>”
 3. Make sure you have 
    
     <ol type="i">
