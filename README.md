@@ -36,11 +36,12 @@ Code a server using Node.js
             $ sudo mkdir -p /data/db<br/>
             $ sudo chmod 777 /data/db<br/>
             //to run mongod<br/>
-            $ mongod      <br/><br/>
+            $ mongod      <br/>
+             //keep this terminal tab open
+             <br/><br/>
       </li>
-      
     </ol>
-4. Start your app, $nodemon index
+4.  Start your app, open new terminal tab : $nodemon index
 
 <br/>
 =============================================================================================================
