@@ -16,6 +16,13 @@ Code a server using Node.js
       <li>Install xml2json<br/>
           https://www.npmjs.com/package/xml2json
       </li>
+      <li>Install  $npm install mongoose<br/>
+        https://www.npmjs.com/package/mongoose
+      </li>
+      <li>Install nodemon <br/>
+          $npm install -g nodemon <br/>
+          Now that you have installed nodemon, start your app with <b>nodemon index</b>. <br/>
+      </li>
       <li>Install mongodb<br/>
            2 ways to install:<br/>
            a) using Homebrew for Mac : https://brew.sh/ . <br/>
@@ -31,13 +38,7 @@ Code a server using Node.js
             //to run mongod<br/>
             $ mongod      <br/><br/>
       </li>
-      <li>Install  $npm install mongoose<br/>
-        https://www.npmjs.com/package/mongoose
-      </li>
-      <li>Install nodemon <br/>
-          $npm install -g nodemon <br/>
-          Now that you have installed nodemon, start your app with <b>nodemon index</b>. <br/>
-      </li>
+      
     </ol>
 4. Start your app, $nodemon index
 
