@@ -36,31 +36,29 @@ Code a server using Node.js
             $ sudo mkdir -p /data/db<br/>
             $ sudo chmod 777 /data/db<br/>
             //to run mongod<br/>
-            $ mongod      <br/>
+            $ mongod<br/>
              //keep this terminal tab open
-             <br/><br/>
+            
       </li>
     </ol>
 4.  Start your app, open new terminal tab : $nodemon index
 
-<br/>
 =============================================================================================================
-<br/>
 
 ### Task 1 - Load database
 1. Firstly, Open your browser go to “http://localhost:8080/rates/load” , for load all the data into mongodb database
-  <br/>
+
 ### Task 2 - `GET /rates/latest`
 Go to “http://localhost:8080/rates/latest”
-<br/>
+
 ### Task 3 - `GET /rates/YYYY-MM-DD`
 Eg: Go to “http://localhost:8080/rates/2018-10-25”,
-<br/>
+
 ### Task 4 - `GET /rates/analyze`
 Go to “http://localhost:8080/rates/analyze”
-<br/>
+
 =============================================================================================================
-<br/>
+
 ### For Mocha Testing
 Open new tab terminal $npm run test
 
