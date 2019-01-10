@@ -8,22 +8,22 @@ Code a server using Node.js
    b) Install  $npm install mongoose https://www.npmjs.com/package/mongoose <br/>
    c) Install express.js https://www.npmjs.com/package/express <br/>
    d) Install xml2json https://www.npmjs.com/package/xml2json <br/>
-   e) install mongodb
-      i) 2 ways to install mongodb:
-         - using Homebrew for Mac : https://brew.sh/
-         - manual install https://www.mongodb.com/download-center/community
+   e) install mongodb <br/>
+      i) 2 ways to install mongodb: <br/>
+         - using Homebrew for Mac : https://brew.sh/ <br/>
+         - manual install https://www.mongodb.com/download-center/community <br/> <br/>
          
-      #Install using homebrew:
-      Copy /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”   
-      to terminal to  install homebrew
+      #Install using homebrew: <br/>
+      Copy /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)” <br/>
+      to terminal to  install homebrew <br/><br/>
       
-      $brew update
-      $brew install mongodb
-      $ sudo mkdir -p /data/db
-      $ sudo chmod 777 /data/db
-      $ mongod
+      $brew update <br/>
+      $brew install mongodb <br/>
+      $ sudo mkdir -p /data/db <br/>
+      $ sudo chmod 777 /data/db <br/>
+      $ mongod <br/><br/>
       
-3. Open terminal cd to path directory where your source files save “cd <directore path—>”
+3. Open terminal cd to path directory where your source files save “cd <directore path—>” <br/>
 4. Terminal open new tab : $ node index
 
 ===================================================================================================================
