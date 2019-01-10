@@ -2,8 +2,8 @@
 Code a server using Node.js
 
 ## Tasks 
-1. Download the source files, to your local directory
-2. Make sure you have install node, mongodb, mongoose, express, https, xml2json 
+1. Download the source files, to your local directory <br/>
+2. Make sure you have install node, mongodb, mongoose, express, https, xml2json <br/>
    a) Install node  <br/>
    b) Install  $npm install mongoose https://www.npmjs.com/package/mongoose <br/>
    c) Install express.js https://www.npmjs.com/package/express <br/>
