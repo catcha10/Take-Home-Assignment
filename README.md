@@ -4,10 +4,10 @@ Code a server using Node.js
 ## Tasks 
 1. Download the source files, to your local directory
 2. Make sure you have install node, mongodb, mongoose, express, https, xml2json 
-   a) Install node  
-   b) Install  $npm install mongoose https://www.npmjs.com/package/mongoose 
-   c) Install express.js https://www.npmjs.com/package/express
-   d) Install xml2json https://www.npmjs.com/package/xml2json
+   a) Install node  <br/>
+   b) Install  $npm install mongoose https://www.npmjs.com/package/mongoose <br/>
+   c) Install express.js https://www.npmjs.com/package/express <br/>
+   d) Install xml2json https://www.npmjs.com/package/xml2json <br/>
    e) install mongodb
       i) 2 ways to install mongodb:
          - using Homebrew for Mac : https://brew.sh/
