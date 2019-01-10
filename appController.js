@@ -35,7 +35,6 @@ exports.index = (req,res) => {
 //retrieve and return latest from the database ### Task 2 - `GET /rates/latest`
 exports.latest = (req, res) => {
 	
-	res.header("Content-Type",'application/json');
 	
 	//if no collection and records found 
 	mongoose.connection.db.listCollections({name: 'currencies'})
