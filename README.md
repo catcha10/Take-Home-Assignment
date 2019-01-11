@@ -59,6 +59,8 @@ Eg: Go to “http://localhost:8080/rates/2018-10-25”,
 ### Task 4 - `GET /rates/analyze`
 Go to “http://localhost:8080/rates/analyze”
 
+or you can use chrome extension Postman to test it out.
+
 =============================================================================================================
 
 ### For Mocha Testing
